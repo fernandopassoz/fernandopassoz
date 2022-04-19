@@ -72,7 +72,7 @@ Funções:
 - Gerência do departamento Técnico e de Suporte.
 - Manutenção corretiva e preventiva de todos os computadores da empresa.
 
-**NewNet Telecom Provedor de Internet**
+**NewNet Telecom Provedor de Internet**  
 Consultor externo - Desenvolvimento de soluções  
 Funções:
 
