@@ -46,8 +46,7 @@ E-mail: [fernandohpassos@gmail.com](mailto:fernandohpsouza@gmail.com)
 ### **Experiência Profissional**
 
 **Senai - Serviço Nacional de Aprendizagem Industrial.**  
-Docente de Desenvolvimento de Sistemas.
-
+Docente de Desenvolvimento de Sistemas.  
 Disciplinas Ministradas:
 
 - Lógica de programação.
@@ -59,8 +58,7 @@ Disciplinas Ministradas:
 - Desenvolvimento de Sistemas.
 
 **Engeluz Comercial e Instaladora LTDA.**  
-Suporte em TI.
-
+Suporte em TI.  
 Funções:
 
 - Desenvolvimento do sistema de controle de acesso dos usuários em Python com autenticação em LDAP.
@@ -75,16 +73,14 @@ Funções:
 - Manutenção corretiva e preventiva de todos os computadores da empresa.
 
 **NewNet Telecom Provedor de Internet**
-Consultor externo - Desenvolvimento de soluções
-
+Consultor externo - Desenvolvimento de soluções  
 Funções:
 
 - Desenvolvimento do sistema de monitoramento da rede ótica em Python.
 - Implantação do sistema de gerenciamento do provedor de internet.
 
 **Senai - Serviço Nacional de Aprendizagem Industrial.**  
-Docente de TI.
-
+Docente de TI.  
 Disciplinas Ministradas:
 
 - Arquitetura de Computadores.
@@ -105,8 +101,7 @@ Disciplinas Ministradas:
 - Telecomunicações.
 
 **Seta Consultoria em Informática LTDA (Provedor de acesso de banda larga).**  
-Analista de Suporte Pleno.
-
+Analista de Suporte Pleno.  
 Funções:
 
 - Desenvolvimento do sistema de controle de acesso dos usuários em Python.
@@ -119,8 +114,7 @@ Funções:
 - Gerência do departamento Técnico e de Suporte.
 
 **Aloha System Informática LTDA (Provedor de internet afiliado UOL).**  
-Administrador de Redes Pleno.
-
+Administrador de Redes Pleno.  
 Funções:
 
 - Planejamento e implantação de Firewalls em Linux.
@@ -130,8 +124,7 @@ Funções:
 - Monitoramento de rede WLAN com cerca de 1000 usuários.
 
 **Telecomunicações do Rio de Janeiro S.A. (Telerj).**  
-Instalador e Reparador de Redes.
-
+Instalador e Reparador de Redes.  
 Funções:
 
 - Detecção de defeitos na rede de acesso e de dados.
@@ -140,8 +133,7 @@ Funções:
 - Gerência da qualidade do atendimento.
 
 **Infomaster Produtos e Serviços para Informática LTDA.**  
-Técnico em Hardware e Redes.
-
+Técnico em Hardware e Redes.  
 Funções:
 
 - Manutenção corretiva e preventiva de computadores.
