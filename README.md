@@ -45,7 +45,7 @@ E-mail: [fernandohpassos@gmail.com](mailto:fernandohpsouza@gmail.com)
 
 ### **Experiência Profissional**
 
-Senai - Serviço Nacional de Aprendizagem Industrial.  
+**Senai - Serviço Nacional de Aprendizagem Industrial.**  
 Docente de Desenvolvimento de Sistemas.
 
 Disciplinas Ministradas:
@@ -58,7 +58,7 @@ Disciplinas Ministradas:
 - Programação de Aplicativos.
 - Desenvolvimento de Sistemas.
 
-Engeluz Comercial e Instaladora LTDA.  
+**Engeluz Comercial e Instaladora LTDA.**  
 Suporte em TI.
 
 Funções:
@@ -74,7 +74,7 @@ Funções:
 - Gerência do departamento Técnico e de Suporte.
 - Manutenção corretiva e preventiva de todos os computadores da empresa.
 
-NewNet Telecom Provedor de Internet
+**NewNet Telecom Provedor de Internet**
 Consultor externo - Desenvolvimento de soluções
 
 Funções:
@@ -82,7 +82,7 @@ Funções:
 - Desenvolvimento do sistema de monitoramento da rede ótica em Python.
 - Implantação do sistema de gerenciamento do provedor de internet.
 
-Senai - Serviço Nacional de Aprendizagem Industrial.  
+**Senai - Serviço Nacional de Aprendizagem Industrial.**  
 Docente de TI.
 
 Disciplinas Ministradas:
@@ -104,7 +104,7 @@ Disciplinas Ministradas:
 - Matemática.
 - Telecomunicações.
 
-Seta Consultoria em Informática LTDA (Provedor de acesso de banda larga).  
+**Seta Consultoria em Informática LTDA (Provedor de acesso de banda larga).**  
 Analista de Suporte Pleno.
 
 Funções:
@@ -118,7 +118,7 @@ Funções:
 - Monitoramento de rede de Fibra Óptica.
 - Gerência do departamento Técnico e de Suporte.
 
-Aloha System Informática LTDA (Provedor de internet afiliado UOL).  
+**Aloha System Informática LTDA (Provedor de internet afiliado UOL).**  
 Administrador de Redes Pleno.
 
 Funções:
@@ -129,7 +129,7 @@ Funções:
 - Monitoramento de rede dial-up com cerca de 3000 usuários.
 - Monitoramento de rede WLAN com cerca de 1000 usuários.
 
-Telecomunicações do Rio de Janeiro S.A. (Telerj).  
+**Telecomunicações do Rio de Janeiro S.A. (Telerj).**  
 Instalador e Reparador de Redes.
 
 Funções:
@@ -139,7 +139,7 @@ Funções:
 - Acionamento de mão de obra especializada.
 - Gerência da qualidade do atendimento.
 
-Infomaster Produtos e Serviços para Informática LTDA.  
+**Infomaster Produtos e Serviços para Informática LTDA.**  
 Técnico em Hardware e Redes.
 
 Funções:
