@@ -1,9 +1,9 @@
-2262
+2263
 40/home/fernando/dev/passoz/src/style.scss1657729720393621740 0
 40/home/fernando/dev/passoz/src/index.html1657729564818145162 0
-53/home/fernando/dev/passoz/docs/index.5cb19b71.css.map1657729736019499950 0
-41/home/fernando/dev/passoz/docs/index.html1657729736016166785 0
-30/home/fernando/dev/passoz/docs1657729736019499950 1
+53/home/fernando/dev/passoz/docs/index.5cb19b71.css.map1657730174374081948 0
+41/home/fernando/dev/passoz/docs/index.html1657730174370748782 0
+30/home/fernando/dev/passoz/docs1657730174374081948 1
 55/home/fernando/dev/passoz/node_modules/dotenv/config.js1657727560493355983 0
 59/home/fernando/dev/passoz/node_modules/ansi-styles/index.js1657727560483356487 0
 61/home/fernando/dev/passoz/node_modules/ansi-styles/index.d.ts1657727560506688646 0
@@ -608,6 +608,7 @@
 86/home/fernando/dev/passoz/node_modules/@parcel/core/src/requests/BundleGraphRequest.js1657727560613349947 0
 85/home/fernando/dev/passoz/node_modules/@parcel/core/test/fixtures/parcel/package.json1657727560713344917 0
 109/home/fernando/dev/passoz/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/src/index.js1657727560636682107 0
+34/home/fernando/dev/passoz/build.sh1657730137362611343 0
 100/home/fernando/dev/passoz/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/src1657727560636682107 1
 109/home/fernando/dev/passoz/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/package.json1657727560710011752 0
 59/home/fernando/dev/passoz/node_modules/is-glob/package.json1657727560490022818 0
@@ -962,7 +963,7 @@
 82/home/fernando/dev/passoz/node_modules/electron-to-chromium/chromium-versions.json1657727560540020303 0
 78/home/fernando/dev/passoz/node_modules/@parcel/core/lib/dumpGraphToGraphViz.js1657727560626682610 0
 84/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/intrinsic-width.js1657727560733343911 0
-49/home/fernando/dev/passoz/docs/index.5cb19b71.css1657729736016166785 0
+49/home/fernando/dev/passoz/docs/index.5cb19b71.css1657730174370748782 0
 85/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/cookie-store-api.js1657727560643348439 0
 65/home/fernando/dev/passoz/node_modules/@parcel/watcher/src/shared1657727560566685628 1
 81/home/fernando/dev/passoz/node_modules/@parcel/core/src/requests/TargetRequest.js1657727560686679592 0
@@ -1106,7 +1107,7 @@
 82/home/fernando/dev/passoz/node_modules/@parcel/core/test/fixtures/config/.parcelrc1657727560560019297 0
 72/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/aac.js1657727560516688143 0
 70/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/IR.js1657727560733343911 0
-41/home/fernando/dev/passoz/dist/index.html1657729500921376122 0
+41/home/fernando/dev/passoz/dist/index.html1657730157434934434 0
 92/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/font-variant-alternates.js1657727560720011249 0
 75/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/webgpu.js1657727560786674562 0
 83/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/css3-boxsizing.js1657727560696679089 0
@@ -1149,7 +1150,7 @@
 66/home/fernando/dev/passoz/node_modules/source-map-js/source-map.js1657727560546686634 0
 81/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/setimmediate.js1657727560766675568 0
 58/home/fernando/dev/passoz/node_modules/lmdb/dist/index.cjs1657727560650014770 0
-49/home/fernando/dev/passoz/dist/index.b2d9cf43.css1657729714860567617 0
+49/home/fernando/dev/passoz/dist/index.b2d9cf43.css1657730157434934434 0
 63/home/fernando/dev/passoz/node_modules/detect-libc/package.json1657727560480023321 0
 70/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/GB.js1657727560720011249 0
 74/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/alt-na.js1657727560573351960 0
@@ -1231,7 +1232,7 @@
 82/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/console-basic.js1657727560636682107 0
 78/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/flow-root.js1657727560720011249 0
 70/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/BS.js1657727560620016279 0
-25/home/fernando/dev/passoz1657729736009500454 1
+25/home/fernando/dev/passoz1657730174320751298 1
 76/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/rellist.js1657727560760009237 0
 80/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/css-lch-lab.js1657727560676680095 0
 86/home/fernando/dev/passoz/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.cc1657727560556686131 0
@@ -1470,7 +1471,7 @@
 69/home/fernando/dev/passoz/node_modules/@parcel/core/lib/loadDotEnv.js1657727560646681604 0
 78/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/web-share.js1657727560786674562 0
 73/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/webm.js1657727560786674562 0
-53/home/fernando/dev/passoz/dist/passoz.59712999.js.map1657728020663610198 0
+53/home/fernando/dev/passoz/dist/passoz.59712999.js.map1657730157438267600 0
 64/home/fernando/dev/passoz/node_modules/browserslist/package.json1657727560533353972 0
 63/home/fernando/dev/passoz/node_modules/ansi-styles/package.json1657727560490022818 0
 78/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/svg-html5.js1657727560770008734 0
@@ -1530,7 +1531,7 @@
 70/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/NG.js1657727560750009740 0
 67/home/fernando/dev/passoz/node_modules/color-convert/conversions.js1657727560496689149 0
 79/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/array-flat.js1657727560590017788 0
-53/home/fernando/dev/passoz/dist/index.b2d9cf43.css.map1657729714860567617 0
+53/home/fernando/dev/passoz/dist/index.b2d9cf43.css.map1657730157438267600 0
 83/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/iframe-sandbox.js1657727560730010746 0
 56/home/fernando/dev/passoz/node_modules/source-map-js/lib1657727560553352965 1
 70/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/TL.js1657727560776675065 0
@@ -1566,7 +1567,7 @@
 72/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/es6.js1657727560716678083 0
 94/home/fernando/dev/passoz/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/midl.c1657727560633348942 0
 75/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/srcset.js1657727560770008734 0
-30/home/fernando/dev/passoz/dist1657729714860567617 1
+30/home/fernando/dev/passoz/dist1657730157438267600 1
 81/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/css-any-link.js1657727560646681604 0
 74/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/alt-ww.js1657727560576685125 0
 79/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/matchmedia.js1657727560740010243 0
@@ -1748,7 +1749,7 @@
 70/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/AO.js1657727560583351457 0
 57/home/fernando/dev/passoz/node_modules/msgpackr/stream.js1657727560553352965 0
 55/home/fernando/dev/passoz/node_modules/.bin/detect-libc1657727560800007224 0
-49/home/fernando/dev/passoz/dist/passoz.59712999.js1657728020660277033 0
+49/home/fernando/dev/passoz/dist/passoz.59712999.js1657730157434934434 0
 86/home/fernando/dev/passoz/node_modules/@parcel/watcher/src/shared/BruteForceBackend.hh1657727560566685628 0
 70/home/fernando/dev/passoz/node_modules/caniuse-lite/data/regions/AX.js1657727560600017285 0
 78/home/fernando/dev/passoz/node_modules/caniuse-lite/data/features/innertext.js1657727560730010746 0
