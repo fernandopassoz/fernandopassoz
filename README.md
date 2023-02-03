@@ -20,15 +20,15 @@ E-mail: [fernandohpassos@gmail.com](mailto:fernandohpsouza@gmail.com)
 
 ### **Tecnologias**
 
-- Web (Vanilla Javascript/ HTML5/CSS)
-- Java (Springboot, Hibernate)
+- Web (Vanilla Javascript/HTML5/CSS)
+- Java (Springboot, Hibernate, Quarkus)
 - ReactJS
 - NextJS
 - Python
 - Bash script
 - Go Language
 - DB SQL - Mysql e Postgresql
-- NoSQL - MongoDB
+- NoSQL - MongoDB, DynamoDB
 - RabbitMQ
 - Git
 - Docker e Podman
@@ -39,7 +39,6 @@ E-mail: [fernandohpassos@gmail.com](mailto:fernandohpsouza@gmail.com)
 - Terraform e Pulumi
 - Ansible
 - Apache
-- IoT e MQTT
 - Linux
 - Windows Server
 
